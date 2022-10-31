@@ -3,7 +3,7 @@
    9. Pide dos números por teclado al usuario: a y b. 
       Deberá mostrarse true si ambos números son iguales y false en caso contrario.
  */
-package com.solomongo.ejercicio9_hoja3;
+package com.solo  mongo.ejercicio9_hoja3;
 import java.util.Scanner;
 public class Ejercicio9_Hoja3 {
 public static void main(String[] args) {      
